@@ -1,10 +1,74 @@
-John Doe
-Software Engineer
-Experience:
-- Developed web applications using Python and JavaScript.
-- Collaborated with cross-functional teams to deliver projects on time.
-Education:
-- B.S. in Computer Science from XYZ University.
-Skills:
-- Python, JavaScript, React, SQL
+Aysha Noor
+Software Engineer with a Bachelor’s in Computer Science and over 2 years of experience in developing and deploying microservices and REST APIs using Python, Java, and cloud technologies. Passionate about continuous exploration, with a recent focus on LLMs and their implementation possibilities.
 
+Contact Information:
+Phone: +92 306 5354366
+Location: Islamabad, Pakistan
+Email: ayshanoor2030@gmail.com
+GitHub: github.com/ayshanoorr
+LinkedIn: linkedin.com/in/aysha-noor-3344a8221
+Credly: credly.com/users/aysha-noor
+
+Key Competencies:
+- Programming Languages: Python, Java, Spring, Go (Familiarity)
+- Cloud & DevOps: AWS, Docker, Kubernetes, Apache Kafka
+- Databases: MySQL, Oracle, MariaDB, DynamoDB
+- Others: RESTful API Development, Agile Development, Team Collaboration, Git, GitHub
+
+Professional Experience:
+
+1) IBM - Software Engineer
+Feb 2024 - Present
+
+- Developed Python RestAPIs to provision VIU and Amazon Prime subscriptions as rewards, querying data from MariaDB to identify
+and allocate winners, successfully delivering the solution within a tight 1-week deadline.
+- Developed a GenAI solution in Python using WatsonX API’s and Mistral LLM to generate customer personas to create a more
+personalised experience based on those personas while also decreasing campaign design time by 27-30%.
+- Developed a Spring microservice to reduce campaign development complexity by 25%, enhancing HCLTech’s UNICA Journey with
+a feature to streamline the management of extended Buy and Get Journey campaigns.
+- Integrated the Spring microservice with Kafka pipelines, DynamoDB and MariaDB for data processing.
+- Collaborated with operations team to facilitate the deployment of Python and Java applications to the production environment on
+an EKS cluster.
+
+2) IBM - Data Analyst
+Aug 2022 - Feb 2024
+
+- Analysed data insights to optimise campaign targeting, leading to a substantial decrease in support escalations, with only 5
+escalations in over a year.
+- Developed more than 50 marketing campaigns as the solo campaign developer on the Loyalty Squad on Vodacom South Africa,
+consistently achieving a success rate of 100% in punctual and accurate delivery.
+- Developed data extraction workflows from MariaDB tables to generate comprehensive reports on campaign functionality and
+response status on Excel for client analysis.
+- Automated the data extraction workflows and campaign runs using Python scripts, saving approximately 45 minutes of manual
+effort per task and improving efficiency.
+
+3) SolutionAve - Full Stack Developer
+Jan 2022 - Apr 2022
+
+- Developed an ESports application featuring gaming tournaments, live events, and a coin-based reward system.
+- Utilized React Native for the frontend, Go for backend functionality, and MongoDB as the database.
+
+4) Zixel Technologies - Microservices Developer Intern
+Jun 2023 - Aug 2023
+
+- Collaborated on an internal collaborative platform inspired by JIRA, integrating AI features and 50+ modules using the Spring framework.
+
+Projects:
+
+1) Automate It
+- A Python application connected to Raspberri Pi and supporting hardware (as a representation of different home appliances) to respond to voice commands in Urdu language to control the appliances.
+- An interface developed using React Native, providing multiple access options for the appliances through voice or your mobile phone.
+- Utilised: Tensorflow, Keras, Raspberri Pi, React Native, Git
+
+2) The Ripple Effect
+- A blockchain based de-centralised application that aims to bring transparency to the process of fundraising and managing donations for various types of charities.
+- Utilised: NodeJS, React, Ganache, Truffle, Ethereum
+
+Education:
+
+FAST National University of Computer and Emerging Sciences
+Islamabad, Pakistan | Aug 2018 - Jun 2022
+
+Bachelor of Science in Computer Science (GPA: 3.34)
+Minor in Artificial Intelligence
+Officer of FAST Development Club (FDC); Managed the App Development Competition during NASCON.
